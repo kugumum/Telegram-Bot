@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+config.py
+
+*.ogg
+# Virtual environments
+env/
+ENV/
+venv/
+.VENV/
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.wheel
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+*.ipynb text eol=lf
+
+downloads/*
+
+.env
